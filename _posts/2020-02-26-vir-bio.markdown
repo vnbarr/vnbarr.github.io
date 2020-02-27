@@ -1,0 +1,9 @@
+---
+layout: single
+title:  "Mini Bio"
+date:   2020-02-26 21:41:35 -0300
+categories: personal bio
+---
+
+
+
