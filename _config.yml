@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Diario de una programadora"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Virginia Barros"
-description              : "Soy Programadora, líder de proyecto, co-fundadora de [Las] de Sistemas."
+description              : "Soy Programadora, líder de proyecto, co-fundadora de <a href='lasdesistemas.org'>[Las] de Sistemas.</a>"
 url                      : "https://vnbarr.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "vnbarr/vnbarr.github.io"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Virginia Barros"
   avatar           : "/assets/images/virbarros.png"
-  bio              : "Soy Programadora, líder de proyecto, co-fundadora de [Las] de Sistemas."
+  bio              : "Soy Programadora, líder de proyecto, co-fundadora de <a href='http://www.lasdesistemas.org'>[Las] de Sistemas.</a>"
   location         : "Buenos Aires, Argentina"
   email            :
   links:
